@@ -1,11 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kerim</h1>
+<h3 align="center">A Jr. Cyber Security Analyst from Turkey!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kerim3mr3&label=Profile%20views&color=0e75b6&style=flat" alt="0baris" /> </p>
 
 <!--
 **Kerim3mr3/Kerim3mr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Bugun
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
