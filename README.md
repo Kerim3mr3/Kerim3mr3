@@ -32,7 +32,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Java** , **Python** , **C+**    
+- 🌱 I’m currently learning **Java** , **Python**  
 - 🔭 I’m currently working on [Bugün Ne Pişirsem Ki](https://github.com/Kerim3mr3/Bugun-Ne-Pisirsem-Ki)  
 - 📫 How to reach me: kerim3mr3@proton.me  
 
