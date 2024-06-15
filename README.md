@@ -2,7 +2,7 @@
 <h3 align="center">A Jr. Cyber Security Analyst from Turkey!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kerim3mr3&label=Profile%20views&color=0e75b6&style=flat" alt="Kerim3mr3" /> </p>
-<a href="https://linkedin.com/in/Kerim3mr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+<a href="https://linkedin.com/in/Kerim3mr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt="Kerim3mr3" height="30" width="40" /></a>
 
 - 🌱 I’m currently learning **Java** , **Python** , **C+**    
 - 🔭 I’m currently working on [Bugün Ne Pişirsem Ki](https://github.com/Kerim3mr3/Bugun-Ne-Pisirsem-Ki)  
