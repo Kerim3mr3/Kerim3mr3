@@ -12,5 +12,5 @@
 - 📫 How to reach me: kerim3mr3@proton.me  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kerim3mr3&show_icons=true&locale=en&layout=compact" alt="Kerim3mr3" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kerim3mr3&show_icons=true&locale=en&layout=compact" alt="Kerim3mr3"  height="300" width="400"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kerim3mr3&show_icons=true&locale=en" alt="Kerim3mr3" height="300" width="400"/></p>
