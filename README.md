@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://www.kali.org" target="_blank" rel="noreferrer"> 
-    <img src="https://icons8.com/icon/101665/kali-linux" alt="kali-linux" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" alt="kali-linux" width="40" height="40"/> 
   </a> 
 </p>
 
