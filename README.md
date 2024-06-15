@@ -28,6 +28,14 @@
     <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" alt="metasploit" width="40" height="40"/> 
   </a> 
 
+  
+  <a href="https://aircrack-ng.org" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Aircrack-ng-new-logo.jpg" alt="Aircrack-ng" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.metasploit.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" alt="metasploit" width="40" height="40"/> 
+  </a> 
+
 
   https://icons8.com/icon/PW0ChfedZvTh/metasploit
 </p>
