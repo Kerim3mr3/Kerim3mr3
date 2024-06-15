@@ -24,6 +24,12 @@
   <a href="https://www.kali.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" alt="kali-linux" width="40" height="40"/> 
   </a> 
+  <a href="https://www.metasploit.com" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" alt="metasploit" width="40" height="40"/> 
+  </a> 
+
+
+  https://icons8.com/icon/PW0ChfedZvTh/metasploit
 </p>
 
 - 🌱 I’m currently learning **Java** , **Python** , **C+**    
