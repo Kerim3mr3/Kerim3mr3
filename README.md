@@ -30,8 +30,6 @@
   <a href="https://aircrack-ng.org" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Aircrack-ng-new-logo.jpg" alt="aircrack-ng" width="100" height="40"/> 
   </a> 
-
-  https://icons8.com/icon/PW0ChfedZvTh/metasploit
 </p>
 
 - 🌱 I’m currently learning **Java** , **Python** , **C+**    
