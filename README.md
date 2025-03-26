@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kerim3mr3&label=Profile%20views&color=0e75b6&style=flat" alt="Kerim3mr3" /> </p>
 <a href="https://www.linkedin.com/in/kerim-emre-ç-9a6a5a20b/?_l" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"alt="Kerim3mr3"/></a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=350558" style='border:none;'></iframe>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=350558" style='border:none;'></iframe>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
