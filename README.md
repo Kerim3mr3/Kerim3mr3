@@ -2,9 +2,8 @@
 <h3 align="center">A Jr. Cyber Security Analyst from Turkey!</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Zulf1kar&label=Profile%20views&color=0e75b6&style=flat" alt="Zulf1kar" />
+  <img src="https://komarev.com/ghpvc/?username=Kerim3mr3&label=Profile%20views&color=0e75b6&style=flat" alt="Kerim3mr3" />
 </p>
-
 <a href="https://www.linkedin.com/in/kerim-emre-ç-9a6a5a20b/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Kerim3mr3"/>
 </a>
