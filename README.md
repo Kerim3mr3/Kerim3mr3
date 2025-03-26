@@ -9,7 +9,7 @@
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Kerim3mr3"/>
 </a>
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/KullaniciAdi.svg)](https://tryhackme.com/p/KullaniciAdi)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Zulf1kar.svg)](https://tryhackme.com/p/Zulf1kar)
 
 ---
 
