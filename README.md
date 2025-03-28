@@ -8,7 +8,8 @@
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Kerim3mr3"/>
 </a>
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=350558)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Zulf1kar.png" alt="TryHackMe Badge" />
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
