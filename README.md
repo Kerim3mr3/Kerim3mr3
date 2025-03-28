@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kerim</h1>
-<h3 align="center">A Jr. Penetration Testter || Bug Hunter from Turkey!</h3>
+<h3 align="center">A Jr. Penetration Tester || Bug Hunter from Turkey!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kerim3mr3&label=Profile%20views&color=0e75b6&style=flat" alt="Kerim3mr3" />
@@ -15,7 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Zulf1kar.png" alt="Your Image Badge" width="250"/>
+  <a href="https://tryhackme.com/p/Zulf1kar" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Zulf1kar.png" alt="TryHackMe Badge" width="250"/>
+  </a>
 </p>
 
 ---
@@ -23,7 +25,7 @@
 ### 🚀 About Me  
 
 - 🌱 I’m currently learning **Java** , **Python**  
-- 🔭 I’m currently working on [Database Security](https://github.com/Kerim3mr3/sql_injection_md5_notsafe))  
+- 🔭 I’m currently working on [Database Security](https://github.com/Kerim3mr3/sql_injection_md5_notsafe)  
 - 📫 How to reach me: **kerim3mr3@proton.me**  
 
 ---
@@ -45,6 +47,9 @@
   </a>  
   <a href="https://www.metasploit.com" target="_blank"> 
     <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" alt="Metasploit" width="50"/> 
+  </a>  
+  <a href="https://portswigger.net/burp" target="_blank"> 
+    <img src="https://www.svgrepo.com/show/353914/burp-suite.svg" alt="Burp Suite" width="50"/> 
   </a>  
   <a href="https://aircrack-ng.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Aircrack-ng-new-logo.jpg" alt="Aircrack-NG" width="100"/> 
