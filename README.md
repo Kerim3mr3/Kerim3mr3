@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/Zulf1kar" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Zulf1kar.png" alt="TryHackMe Badge" width="250"/>
+    <img src="(https://tryhackme.com/api/v2/badges/public-profile?userPublicId=350558" )" alt="TryHackMe Badge" width="250"/>
   </a>
 </p>
 
